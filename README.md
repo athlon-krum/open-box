@@ -1,5 +1,5 @@
 # open-box
-open testspace enable test box
+open testspace enable test boks
 
 * force build (again)
 
